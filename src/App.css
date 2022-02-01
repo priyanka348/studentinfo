@@ -1,0 +1,77 @@
+body {
+    background-color: grey;
+}
+
+.app-container {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    padding: 1rem;
+}
+
+#heading {
+    height: 40px;
+    text-align: center;
+    background-color: darkorange;
+    border-radius: 10px;
+}
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+th,
+td {
+    border: 1px solid rgb(4, 20, 240);
+    text-align: center;
+    padding: 8px;
+    font-size: 22px;
+}
+
+th {
+    background-color: rgb(7, 247, 87);
+}
+
+td {
+    background-color: rgb(242, 245, 106);
+}
+
+form {
+    display: flex;
+    gap: 5px;
+}
+
+form td:last-child {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+form * {
+    font-size: 16px;
+}
+
+#edit {
+    background-color: greenyellow;
+}
+
+#delete {
+    background-color: red;
+}
+
+#save {
+    background-color: darkgreen;
+    color: gold;
+}
+
+button {
+    margin: 2px;
+    border: 1px solid red;
+    border-radius: 5px;
+    background-color: rgb(238, 118, 6);
+}
+
+button:hover {
+    color: rgb(238, 222, 3);
+    background-color: black;
+}

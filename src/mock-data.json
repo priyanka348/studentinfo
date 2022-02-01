@@ -1,0 +1,50 @@
+[{
+        "id": 1,
+        "fullName": "Abhishek Gupta",
+        "mobile": "9867540598",
+        "email": "Abhishek@gmail.com",
+        "address": "Lucknow",
+        "comments": "Excellent"
+    },
+    {
+        "id": 2,
+        "fullName": "Arjun Kumar",
+        "mobile": "8383909582",
+        "email": "arjun.official120@gmail.com",
+        "address": "Madhubani",
+        "comments": "Good"
+    },
+    {
+        "id": 3,
+        "fullName": "Pooja Sahu",
+        "mobile": "8819658264",
+        "email": "poojasahu@gmail.com",
+        "address": "Madhya Pradesh",
+        "comments": "Excellent"
+    },
+    {
+        "id": 4,
+        "fullName": "Robin maan",
+        "mobile": "9654095099",
+        "email": "robinmaan@gmail.com",
+        "address": "Palwal",
+        "comments": "Better"
+    },
+    {
+        "id": 5,
+        "fullName": "Priyanka Pareek",
+        "mobile": "6300556391",
+        "email": "pryankapareek@email.com",
+        "address": "Hyderabad",
+        "comments": "Excellent"
+
+    },
+    {
+        "id": 6,
+        "fullName": "Tanveer Ahmad Kazi",
+        "mobile": "8892324586",
+        "email": "tanveer@email.com",
+        "address": "Davangere",
+        "comments": "Excellent"
+    }
+]
